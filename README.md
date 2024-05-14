@@ -34,6 +34,11 @@ Skills:
 - 🌱 I’m currently learning Flutter 
 - 📫 How to reach me: juandanielpenalozabrito@gmail.com
 
+
+[![Repos Badge](https://badges.pufler.dev/repos/DanielPenalozaB)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/DanielPenalozaB)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/DanielPenalozaB/badge-it)](https://badges.pufler.dev)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DanielPenalozaB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/juan-daniel-pe%C3%B1aloza-brito-85b740251//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://danielpenalozab.com/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPenalozaB)](https://github.com/anuraghazra/github-readme-stats)
