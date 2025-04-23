@@ -23,6 +23,8 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: America/Bogota
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
@@ -48,6 +50,9 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          plugin_repositories: yes
+          plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories_pinned: 2
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
